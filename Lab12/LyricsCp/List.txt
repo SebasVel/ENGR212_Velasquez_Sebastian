@@ -1,0 +1,21 @@
+total 76
+-rw-rw-r-- 1 student student    0 May  2 18:42 List.txt
+drwxrwxr-x 2 student student 4096 May  2 17:06 Night
+-rw-r--r-- 1 student student 3761 May  2 17:06 all_my_life.txt
+-rw-r--r-- 1 student student 1794 May  2 17:06 anti-hero.txt
+-rw-r--r-- 1 student student 2337 May  2 17:29 barbie_world.txt
+-rw-r--r-- 1 student student 2638 May  2 17:06 calm_down.txt
+-rw-r--r-- 1 student student 2026 May  2 17:06 cruel_summer.txt
+-rw-r--r-- 1 student student 2477 May  2 17:06 fast_car.pdf
+-rw-r--r-- 1 student student 1606 May  2 17:06 flowers.pdf
+-rw-r--r-- 1 student student 1910 May  2 17:06 fukumean.pdf
+-rw-r--r-- 1 student student 1843 May  2 17:06 hey_driver.pdf
+-rw-r--r-- 1 student student  929 May  2 17:06 i_remember_everything.txt
+-rw-r--r-- 1 student student 1543 May  2 17:06 need_a_favor.txt
+-rw-r--r-- 1 student student 3368 May  2 17:06 paint_the_town_red.txt
+-rw-r--r-- 1 student student 1708 May  2 17:06 religiously.txt
+-rw-r--r-- 1 student student 1648 May  2 17:06 rich_men_north_of_richmond
+-rw-r--r-- 1 student student 2037 May  2 17:06 snooze
+-rw-r--r-- 1 student student 2291 May  2 17:06 thinkin_bout_me
+-rw-r--r-- 1 student student 1523 May  2 17:06 used_to_be_young
+-rw-r--r-- 1 student student 1954 May  2 17:06 vampire
